@@ -7,8 +7,8 @@
 
    Payment Form Script
    
-   Author: 
-   Date:   
+   Author: Gabriel Fuentes
+   Date: 4.11.19 
    
    Filename: co_payment.js
    
