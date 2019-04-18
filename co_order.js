@@ -86,5 +86,7 @@ function formatNumber(val, decimals) {
 }
 
 function formatUSCurrency(val) {
-   return val.toLocaleString("en-us", {style: "currency", currency: "USD"});
+   return val.toLocaleString("en-us", {
+      style: "currency",
+      currency: "USD"});
 }
